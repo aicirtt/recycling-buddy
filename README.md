@@ -16,3 +16,7 @@ This bot helps users easily determine whether an item is recyclable or just tras
 We've included a few best-case scenario pictures in the code files to help you get started. These images are optimized for testing and can be used to understand how the bot works in different scenarios.
 
 Feel free to explore and use these images to test the accuracy and functionality of the bot!
+
+----------
+This bot was adapted from the trained model at this link [https://www.kaggle.com/code/bouweceunen/garbage-detection-with-tensorflow/notebook].
+The locations of the recycling bins were adapted from gov.sg's api and cleaned up.
